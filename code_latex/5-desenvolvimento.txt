@@ -300,7 +300,7 @@ $$Q_{load-8} = 0,35 \cdot 100 [MVAr] \rightarrow Q_{load-8} = 35 [MVAr]$$
 % ================== MONTAGEM FINAL =================
     \item \textbf{Montagem Final}
 
-A montagem final do sistema é mostrada na Fig.(\ref{fig:sist_complet}), a montagem foi realizada conforme os parâmetros fornecidos na questão estabelecidos e apresentados nas figura X e Y, e a configuração todos os elementos conforme foi apresentado.
+A montagem final do sistema é mostrada na Fig.(\ref{fig:sist_complet}), a montagem foi realizada conforme os parâmetros fornecidos na questão estabelecidos e apresentados nas Fig.(\ref{fig:dados-entrada1}) e Fig.(\ref{fig:dados-entrada2}), e a configuração todos os elementos conforme foi apresentado.
 
 \begin{figure}[H]
     \centering 
